@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import SwitchTheme from '@/components/SwitchTheme.vue'
+import SwitchTheme from '@/components/SwitchTheme/SwitchTheme.vue'
 </script>
 
 <template>
