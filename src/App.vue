@@ -6,7 +6,7 @@ import SwitchTheme from '@/components/SwitchTheme.vue'
   <div
     class="w-full h-full relative
     flex items-center flex-col
-    bg-slate-200 dark:text-white
+   dark:text-white
   dark:bg-black"
   >
     <RouterView />

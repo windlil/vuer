@@ -15,5 +15,5 @@ const currentThemeIcon = computed(() => {
 </script>
 
 <template>
-  <span :class="currentThemeIcon" class="text-black dark:text-white text-2xl cursor-pointer" @click="switchMode" />
+  <span :class="currentThemeIcon" class=" text-black dark:text-white text-2xl cursor-pointer" @click="switchMode" />
 </template>
