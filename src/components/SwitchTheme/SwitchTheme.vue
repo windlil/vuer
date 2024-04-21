@@ -6,10 +6,10 @@ const { switchMode, currentMode } = useThemeMode()
 
 const currentThemeIcon = computed(() => {
   if (currentMode.value === 'dark') {
-    return 'i-solar-sun-2-linear'
+    return 'i-solar-moon-linear'
   }
   else {
-    return 'i-solar-moon-linear'
+    return 'i-solar-sun-2-linear'
   }
 })
 </script>

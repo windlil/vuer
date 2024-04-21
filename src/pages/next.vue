@@ -9,11 +9,10 @@ const router = useRouter()
     CURRENT PAGE: /next
   </em>
   <button
-    class="py-2 px-4 mt-8
-    bg-purple-200 text-gray-600
-    hover:bg-purple-300 hover:text-gray-900
+    class="py-2 px-4 mt-8 shadow-lg
+    hover:bg-gray-300 hover:text-gray-900
     transition-all duration-500 select-none
-    text-sm font-bold rounded-lg"
+    text-xs font-bold rounded-lg"
     @click="router.push('/')"
   >
     BACK
