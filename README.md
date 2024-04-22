@@ -1,8 +1,9 @@
-# vuer
+![](D:\CODE\vuer\public\screenPaste.png)
 
-Vue3 + Vite Starter
+<p align="center">Using Vuer to Build a Vue app smoothly.</p>
 
-## start
+## Start
+
 We recommend using degit to clone template.
 ```bash
 npx degit windlil/vuer project_name
@@ -10,4 +11,21 @@ npx degit windlil/vuer project_name
 cd project_name
 
 pnpm i
+```
+
+## Features
+
+- Vue3
+- Vite5
+- Tailwindcss
+- Vue-Router
+- Pinia
+- iconify
+- dark mode
+
+## Scripts
+
+```
+// init project and delete redundant files
+pnpm clean
 ```
