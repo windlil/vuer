@@ -1,4 +1,4 @@
-![](D:\CODE\vuer\public\screenPaste.png)
+![](https://github.com/windlil/vuer/blob/main/public/screenPaste.png)
 
 <p align="center">Using Vuer to Build a Vue app smoothly.</p>
 
